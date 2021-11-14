@@ -1,0 +1,31 @@
+{% if site.data.settings.certification %}
+<!-- certification -->
+<section class="section position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">{{ site.data.settings.certification-title }}</h2>
+      </div>
+      {% for certification in site.data.settings.certification %}
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+          </div>
+          <div>
+            <p class="text-dark mb-1">{{ certification.date }}</p>
+            <h4>{{ certification.name }}</h4>
+            <p class="mb-0 text-light">{{ certification.organization }}</p>
+            <p class="mb-1 text-light">{{ certification.url }}</p>
+            <link href="https://www.udemy.com/certificate/UC-9fcc49bb-b6be-416c-a4dd-22e0bb1f77d0/"
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <!-- bg image -->
+  <img class="img-fluid cer-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/certification-bg.png" alt="bg-image">
+</section>
+<!-- /certification -->
+{% endif %}

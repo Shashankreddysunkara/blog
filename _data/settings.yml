@@ -1,0 +1,277 @@
+#-------------------------------
+# General Site Settings
+
+title: DevOps
+logo: 
+author: Shashank Reddy Sunkara
+description: Who am i? Well please explore this website to know about me. 
+email: sunkaras58@gmail.com
+phone: +91 8121755566
+address: INDIA
+copyright: Copyright &copy; 2021 Maintained by [Shashank Reddy Sunkara](https://www.linkedin.com/in/reddy-s/)
+
+menu:
+- {name: About, link: '/blog/about.html'}
+- {name: Blog, link: '/blog/blog.html'}
+- {name: Portfolio, link: '/blog/portfolio.html'}
+- {name: Contact, link: '/blog/contact.html'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: G-QNQXJV5E04
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m <br> Shashank <br> DevOps Team Lead
+
+social:
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/reddy-s/"}
+- {icon: "ti-github", link: "https://github.com/Shashankreddysunkara/"}
+- {icon: "ti-user", link: "https://sunny-9pn3610.slack.com/"}
+- {icon: "ti-tumblr-alt", link: "https://t.me/Shashank_471"}
+- {icon: "ti-comments-smiley", link: "https://chat.whatsapp.com/JRCiK1n8ESD5cNXm1CZWql"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb:
+  Even though my personal life journey has abruptly collapsed and unsuccessful due to an unexpected turn, I am successfully providing my skills on multiple beautiful and challengeable Jobs with responsibilities and ultimately in a working position to lead a small size DevOps team of 4 in a start-up fintech company and also myself as a Sr. DevOps Engineer role I provided Infra planning, enforcing securities, monitoring, enhancements and re-design of technologies being used and cost-effective solutions.
+
+blurb-btn-link: '/blog/portfolio.html'
+blurb-btn-name: Know More
+
+
+# About Page
+
+# Work Process Section
+work-process:
+  - title : "Research and Plan"
+    icon : "assets/images/icons/plan.png"
+    content : "I gather the requirements for the team's project and prepare a 2 weeks sprint plan in Jira/kanban boards and assign the team members suitable for the particular tasks."
+    
+  - title : "Design and Develop"
+    icon : "assets/images/icons/design.png"
+    content : "Once the sprint starts, respective assigned team members including me will pick the tasks and start working by having a coke and chips aside on the table (Have to enjoy the work, eh !)."
+    
+  - title : "Deliver"
+    icon : "assets/images/icons/print.png"
+    content : "Before the deadline, my team will deliver the completed tasks and mark them as done in Jira and move on to the next sprint for new challenges. That's all folks!"
+
+
+# My Team Section
+team:
+  - title : "Sujoy Ghosh"
+    image : "assets/images/team/member-1.png"
+    designation : "Co-Founder"
+    
+  - title : "Sam"
+    image : "assets/images/team/member-2.png"
+    designation : "DevOps Engineer"
+    
+  - title : "Vishal"
+    image : "assets/images/team/member-3.png"
+    designation : "DevOps Engineer"
+
+
+#-------------------------------
+# Performance Section
+
+performance-title: Performance
+performance:
+- {name: Research and Plan, color: '#fdb157', value: '99%'}
+- {name: Design and Develop, color: '#9473e6', value: '95%'}
+- {name: Production Support, color: '#bdecf6', value: '99%'}
+- {name: Delivery, color: '#ffbcaa', value: '97%'}
+
+#-------------------------------
+# Skills Section
+
+skills-title: Skills
+skills:
+- {name: AWS, color: '#fdb157', value: '90%'}
+- {name: Microsoft Azure, color: '#9473e6', value: '60%'}
+- {name: Grafana, color: '#bdecf6', value: '95%'}
+- {name: Zabbix, color: '#ffbcaa', value: '90%'}
+- {name: ELK, color: '#58be8d', value: '95%'}
+- {name: Jenkins, color: '#9bb1a6', value: '95%'}
+- {name: Bamboo, color: '#6e00c2', value: '95%'}
+- {name: Ansible, color: '#90d8dc', value: '95%'}
+- {name: Open-Stack, color: '#222e2f', value: '85%'}
+- {name: Docker, color: '#72aa68', value: '95%'}
+- {name: Kubernetes, color: '#9473e6', value: '80%'}
+- {name: Terraform, color: '#ced7cd', value: '90%'}
+- {name: GitHub Actions, color: '#d3c94a', value: '85%'}
+- {name: TravisCI, color: '#cf790f', value: '80%'}
+- {name: PostgreSQL, color: '#00bd00', value: '70%'}
+- {name: Cloud Foundry, color: '#6e00c2', value: '95%'}
+- {name: Appdynamics, color: '#ffbcaa', value: '95%'}
+- {name: Nginx, color: '#3dffff', value: '95%'}
+- {name: RabbitMQ, color: '#420000', value: '80%'}
+- {name: Redis, color: '#fdb157', value: '90%'}
+- {name: Kafka, color: '#9473e6', value: '90%'}
+- {name: Ubuntu, color: '#222e2f', value: '90%'}
+- {name: Alteryx, color: '#9473e6', value: '80%'}
+
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+- {name: Software Engineer, icon: 'icon-1.png', date: 'Feb 2018 - Apr 2018', organization: 'SOFTWORLD TECHNOLOGIES, USA'}
+- {name: IT Technical Analyst IV, icon: 'icon-2.png', date: 'Apr 2018 - May 2019', organization: 'DEERE & COMPANY WHQ A.K.A JOHN DEERE, USA'}
+- {name: DevOps Engineer, icon: 'icon-3.png', date: 'Jun 2019 - Mar 2020', organization: 'FREDDIE MAC, USA'}
+- {name: Sr.DevOps Engineer/Team Lead & Manager, icon: 'icon-1.png', date: 'Sep 2020 - Present', organization: 'DATACULTR, INDIA'}
+
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+- {name: Masters in Computers & Information Sciences, date: '2017', organization: 'Northwest Missouri State University'}
+- {name: Bachelors in Electronics & Communication Engineering, date: '2016', organization: 'JNTUH - Jawaharlal Nehru Technological University'}
+
+
+#-------------------------------
+# Certification Section
+
+certification-title: Certification
+certification:
+- {name: DevOps Deployment Automation with Terraform, AWS and Docker, date: '2021', organization: 'Udemy'}
+cert:
+cert-btn-link: 'https://www.udemy.com/certificate/UC-9fcc49bb-b6be-416c-a4dd-22e0bb1f77d0/'
+cert-btn-name: View Certificate
+
+
+
+#-------------------------------
+# Services Section
+
+services-title: Services
+services:
+- {
+    name: Cloud,
+    icon: ti-vector,
+    description: 'Took lead in migrating the entire clound from Azure to AWS successfully in 3 weeks by reducing VMs footprint from 75 to 31 by optimizing the usage.',
+    active: true # Add true to select section
+  }
+- {
+    name: Automation,
+    icon: ti-vector,
+    description: 'Designed, developed and maintained multiple CI/CD pipelines by integrating ansible playbooks to achieve appreciable outcome of reducing 2 hrs time consuming overnight manual tasks to 2min.',
+    active: true # Add true to select section
+  }
+- {
+    name: Security,
+    icon: ti-vector,
+    description: 'Tracked down and eradicated the attackers virus, unauthorized keys, phantom scripts and so forth securities that compromised in backend and database servers.',
+    active: true # Add true to select section
+  }
+- {
+    name: Monitoring & Support,
+    icon: ti-vector,
+    description: 'Established monitoring tools setup to monitor and react upon failures in infra and applications services in production, staging and testing environments.',
+    active: true # Add true to select section
+  }
+
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/cv.png"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.pdf"
+
+  - image : "assets/images/portfolio/coverletter.png"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
+  
+  - image : "assets/images/portfolio/cv_docx.png"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.docx"
+
+
+# Portfolio Page
+portfolio-label:
+- {
+    title : "Curriculum Vitae Pdf",
+    type : "cv"
+  }
+
+- {
+    title : "Curriculum Vitae Docx",
+    type : "cv_docx"
+  }
+
+- {
+    title : "Cover Letter",
+    type : "cl"
+  }
+
+portfolio-items:
+  - image : "assets/images/portfolio/cv.png"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.pdf"
+    portfolio-type:
+     - type: "cv"
+
+  - image : "assets/images/portfolio/cv_docx.png"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.docx"
+    portfolio-type:
+     - type: "cv_docx"
+  
+  - image : "assets/images/portfolio/coverletter.png"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
+    portfolio-type:
+     - type: "cl"
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial-items:
+  - name: "Shashank Reddy Sunkara"
+    image: "assets/images/testimonial/client-1.png"
+    designation : "Sr. DevOps Engineer-cum-DevOps Team Lead"
+    content : "Thank you so much for spending time here to know about my professional skills and experience. I am hoping to hear from you soon."
+    
+
+#-------------------------------
+# Client Slider Section
+
+client-slider-items:
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "https://datacultr.com/"
+    
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "http://www.freddiemac.com/"
+    
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "https://www.deere.com/en/our-company/"
+    
+  - logo: "assets/images/clients-logo/client-logo-4.png"
+    url: "https://www.softworldtechnologies.com/about"
+    
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: lernerspoint001@gmail.com
