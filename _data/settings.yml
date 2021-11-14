@@ -53,7 +53,7 @@ social:
 
 # About Section
 blurb:
-  Even though my personal life journey has abruptly collapsed and unsuccessful due to an unexpected turn, I am successfully providing my skills on multiple beautiful and challengeable Jobs with responsibilities and ultimately in a working position to lead a small size DevOps team of 4 in a start-up fintech company and also myself as a Sr. DevOps Engineer role I provided Infra planning, enforcing securities, monitoring, enhancements and re-design of technologies being used and cost-effective solutions.
+  Even though my personal life journey has abruptly collapsed and unsuccessful due to an unexpected turn, I am successfully providing my technical skills on multiple beautiful and challengeable Jobs with responsibilities and ultimately in a position to lead DevOps team of 4 in a start-up fintech company and also myself as a Sr. DevOps Engineer role I provided Infra planning, enforcing securities, monitoring, enhancements and re-design of technologies being used and cost-effective solutions.
 
 blurb-btn-link: '/blog/portfolio.html'
 blurb-btn-name: Know More
@@ -201,13 +201,13 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/cv.png"
-    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.pdf"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.pdf"
 
   - image : "assets/images/portfolio/coverletter.png"
     url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
   
   - image : "assets/images/portfolio/cv_docx.png"
-    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.docx"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.docx"
 
 
 # Portfolio Page
@@ -229,12 +229,12 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/cv.png"
-    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.pdf"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.pdf"
     portfolio-type:
      - type: "cv"
 
   - image : "assets/images/portfolio/cv_docx.png"
-    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_blog_Shashank_Reddy_Sunkara.docx"
+    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.docx"
     portfolio-type:
      - type: "cv_docx"
   
