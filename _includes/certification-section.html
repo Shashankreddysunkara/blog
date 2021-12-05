@@ -21,6 +21,20 @@
           </div>
         </div>
       </div>
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+          </div>
+          <div>
+            <p class="text-dark mb-1">{{ certification.date2 }}</p>
+            <h4>{{ certification.name2 }}</h4>
+            <p class="mb-0 text-light">{{ certification.organization2 }}</p>
+            <p class="mb-1 text-light">{{ certification.url2 }}</p>
+            <a href="{{ site.data.settings.cert-btn-link2 }}" class="btn btn-transparent">{{ site.data.settings.cert-btn-name2 }}</a>
+          </div>
+        </div>
+      </div>
       {% endfor %}
     </div>
   <!-- bg image -->
