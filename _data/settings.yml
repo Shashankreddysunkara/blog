@@ -162,12 +162,18 @@ certification:
 cert:
 cert-btn-link: 'https://www.udemy.com/certificate/UC-9fcc49bb-b6be-416c-a4dd-22e0bb1f77d0/'
 cert-btn-name: View Certificate
+
 certification2:
 - {name2: Terraform on AWS with SRE & IaC DevOps, date2: '2021', organization2: 'Udemy'}
 cert2:
 cert-btn-link2: 'https://www.udemy.com/certificate/UC-574f3226-2243-4d13-8e41-5a10f14555b3/'
 cert-btn-name2: View Certificate
 
+certification3:
+- {name3: AWS Certified DevOps Engineer Professional 2021, date3: '2021', organization3: 'Udemy'}
+cert3:
+cert-btn-link3: 'https://www.udemy.com/certificate/UC-7468fcc1-35fc-4e8a-8a01-34c0c0ad1274/'
+cert-btn-name3: View Certificate
 
 #-------------------------------
 # Services Section

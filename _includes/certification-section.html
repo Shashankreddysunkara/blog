@@ -38,6 +38,22 @@
         </div>
       </div>
       {% endfor %}
+      {% for certification3 in site.data.settings.certification3 %}
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+          </div>
+          <div>
+            <p class="text-dark mb-1">{{ certification3.date3 }}</p>
+            <h4>{{ certification3.name3 }}</h4>
+            <p class="mb-0 text-light">{{ certification3.organization3 }}</p>
+            <p class="mb-1 text-light">{{ certification3.url3 }}</p>
+            <a href="{{ site.data.settings.cert-btn-link3 }}" class="btn btn-transparent">{{ site.data.settings.cert-btn-name3 }}</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
     </div>
   <!-- bg image -->
   <img class="img-fluid cer-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/certification-bg.png" alt="bg-image">
