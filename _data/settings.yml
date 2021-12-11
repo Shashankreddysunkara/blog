@@ -170,10 +170,16 @@ cert-btn-link2: 'https://www.udemy.com/certificate/UC-574f3226-2243-4d13-8e41-5a
 cert-btn-name2: View Certificate
 
 certification3:
-- {name3: AWS Certified DevOps Engineer Professional 2021, date3: '2021', organization3: 'Udemy'}
+- {name3: AWS Certified DevOps Engineer Professional, date3: '2021', organization3: 'Udemy'}
 cert3:
 cert-btn-link3: 'https://www.udemy.com/certificate/UC-7468fcc1-35fc-4e8a-8a01-34c0c0ad1274/'
 cert-btn-name3: View Certificate
+
+certification4:
+- {name4: Docker Mastery with k8 and swarm from Docker Captain, date4: '2021', organization4: 'Udemy'}
+cert4:
+cert-btn-link4: 'https://www.udemy.com/certificate/UC-1a6ba97f-d788-4159-8455-65a906840b93/'
+cert-btn-name4: View Certificate
 
 #-------------------------------
 # Services Section
