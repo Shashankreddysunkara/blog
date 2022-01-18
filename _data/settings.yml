@@ -5,7 +5,7 @@ title: DevOps
 logo: 
 author: Shashank Reddy Sunkara
 description: Who am i? Well please explore this website to know about me. 
-email: sunkaras58@gmail.com
+email: shashankreddy.sunkara0504@gmail.com
 phone: +91 8121755566
 address: INDIA
 copyright: Copyright &copy; 2021 Maintained by [Shashank Reddy Sunkara](https://www.linkedin.com/in/reddy-s/)
@@ -53,7 +53,7 @@ social:
 
 # About Section
 blurb:
-   I am tech savvy with keen interest in new technologies, tools, and softwares in all fields. I had an exposure of working on-site in USA in well renowned companies who are excelled in Manufacturing, and Financing fields, and have been providing my DevOps technical skills with multiple responsibilities and roles in diverse companies and ultimately in a current position to lead DevOps team of 3 in a start-up fintech company in India. Myself as a Sr. DevOps Engineer and DevOps team manager, I am providing Infra planning, enforcing securities, monitoring, enhancements and re-design of technologies being used with cost-effective solutions.
+   I am tech savvy with a keen interest in new technologies, tools, and softwares in all fields. I've worked in the US for renowned companies that excel in manufacturing, finance, and other industries. For them I've been providing my DevOps technical skills with multiple responsibilities and roles. In my current position I'm a DevOps team lead of 3 in a startup fintech company in India. Me, as a Sr. DevOps Engineer and DevOps team manager, I am providing infra planning, enforcing securities, monitoring, enhancements and re-design of technologies being used with cost-effective solutions.
 
 blurb-btn-link: '/blog/portfolio.html'
 blurb-btn-name: Know More
@@ -112,14 +112,14 @@ skills:
 - {name: Zabbix, color: '#ffbcaa', value: '90%'}
 - {name: ELK, color: '#58be8d', value: '95%'}
 - {name: Jenkins, color: '#9bb1a6', value: '95%'}
-- {name: Bamboo, color: '#6e00c2', value: '95%'}
-- {name: Ansible, color: '#90d8dc', value: '95%'}
+- {name: Bamboo, color: '#6e00c2', value: '80%'}
+- {name: Ansible, color: '#90d8dc', value: '90%'}
 - {name: Open-Stack, color: '#222e2f', value: '85%'}
 - {name: Docker, color: '#72aa68', value: '95%'}
 - {name: Kubernetes, color: '#9473e6', value: '80%'}
-- {name: Terraform, color: '#ced7cd', value: '90%'}
+- {name: Terraform, color: '#ced7cd', value: '80%'}
 - {name: GitHub Actions, color: '#d3c94a', value: '85%'}
-- {name: TravisCI, color: '#cf790f', value: '80%'}
+- {name: TravisCI, color: '#cf790f', value: '90%'}
 - {name: PostgreSQL, color: '#00bd00', value: '70%'}
 - {name: Cloud Foundry, color: '#6e00c2', value: '95%'}
 - {name: Appdynamics, color: '#ffbcaa', value: '95%'}
@@ -127,10 +127,10 @@ skills:
 - {name: RabbitMQ, color: '#420000', value: '80%'}
 - {name: Redis, color: '#fdb157', value: '90%'}
 - {name: Kafka, color: '#9473e6', value: '90%'}
-- {name: Ubuntu, color: '#222e2f', value: '90%'}
-- {name: Alteryx, color: '#9473e6', value: '80%'}
+- {name: Ubuntu, color: '#58be8d', value: '90%'}
+- {name: Alteryx, color: '#72aa68', value: '80%'}
 - {name: Hava, color: '#222e2f', value: '99%'}
-- {name: Endpoint Protector, color: '#ced7cd', value: '90%'}
+- {name: Endpoint Protector (DLP), color: '#ced7cd', value: '90%'}
 
 
 #-------------------------------
@@ -138,10 +138,10 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Software Engineer, icon: 'icon-1.png', date: 'Feb 2018 - Apr 2018', organization: 'SOFTWORLD TECHNOLOGIES, USA'}
-- {name: IT Technical Analyst IV, icon: 'icon-2.png', date: 'Apr 2018 - May 2019', organization: 'DEERE & COMPANY WHQ A.K.A JOHN DEERE, USA'}
-- {name: DevOps Engineer, icon: 'icon-3.png', date: 'Jun 2019 - Mar 2020', organization: 'FREDDIE MAC, USA'}
-- {name: Sr.DevOps Engineer/Team Lead & Manager, icon: 'icon-1.png', date: 'Sep 2020 - Present', organization: 'DATACULTR, INDIA'}
+- {name: Software Engineer, icon: 'icon-1.png', date: 'Feb 2018 - Apr 2018', organization: 'SOFTWORLD TECHNOLOGIES LLC, USA'}
+- {name: IT Technical Analyst IV, icon: 'icon-2.png', date: 'Apr 2018 - May 2019', organization: 'DEERE & COMPANY Corp. WHQ A.K.A JOHN DEERE, USA'}
+- {name: DevOps Engineer, icon: 'icon-3.png', date: 'Jun 2019 - Mar 2020', organization: 'FREDDIE MAC Corp. HQ, USA'}
+- {name: Sr.DevOps Engineer/Team Lead & Manager, icon: 'icon-1.png', date: 'Sep 2020 - Present', organization: 'DATACULTR Pvt. Ltd., INDIA'}
 
 
 #-------------------------------
@@ -149,7 +149,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Masters in Computers & Information Sciences, date: '2017', organization: 'Northwest Missouri State University'}
+- {name: Masters in Information Systems, date: '2017', organization: 'Northwest Missouri State University'}
 - {name: Bachelors in Electronics & Communication Engineering, date: '2016', organization: 'JNTUH - Jawaharlal Nehru Technological University'}
 
 
@@ -268,7 +268,7 @@ portfolio-items:
 testimonial-items:
   - name: "Shashank Reddy Sunkara"
     image: "assets/images/testimonial/client-1.png"
-    designation : "Sr. DevOps Engineer-cum-DevOps Team Lead"
+    designation : "Sr. DevOps Engineer/DevOps Team Lead"
     content : "Thank you so much for spending time here to know about my professional skills and experience. I am hoping to hear from you soon."
     
 
@@ -292,4 +292,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: sunkaras58@gmail.com
+contact-email: shashankreddy.sunkara0504@gmail.com
