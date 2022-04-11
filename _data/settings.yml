@@ -217,15 +217,37 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
+portfolio-home-label:
+- {
+    title : "Curriculum Vitae Pdf",
+    type : "cv"
+  }
+
+- {
+    title : "Curriculum Vitae Docx",
+    type : "cv_docx"
+  }
+
+- {
+    title : "Cover Letter",
+    type : "cl"
+  }
+
 portfolio-home-items:
   - image : "assets/images/portfolio/cv.png"
     url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.pdf"
+    portfolio-type:
+     - type: "cv"
 
   - image : "assets/images/portfolio/coverletter.png"
     url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
+    portfolio-type:
+     - type: "cl"
   
   - image : "assets/images/portfolio/cv_docx.png"
     url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.docx"
+    portfolio-type:
+     - type: "cv_docx"
 
 
 # Portfolio Page
