@@ -4,7 +4,7 @@
 	<img src="https://shashankreddysunkara.github.io/blog/cv.gif"  width="100%" alt="Shashank portfolio ">
 </div>
 
-## Demo
+## Overview
 
 | Homepage  | About  | Blog  | Portfolio  | Contact  |
 |---|---|---|---|---|
