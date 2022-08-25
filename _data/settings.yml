@@ -5,9 +5,9 @@ title: DevOps
 logo: 
 author: Shashank Reddy Sunkara
 description: Who am i? Well please explore this website to know about me. 
-email: sunkaras58@gmail.com
-phone: +91 8121755566
-address: INDIA
+email: shashankreddy.sunkara0504@gmail.com
+phone: +49 1627368326
+address: Germany
 copyright: Copyright &copy; 2022 Maintained by [Shashank Reddy Sunkara](https://www.linkedin.com/in/reddy-s/)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Shashank <br> DevOps Team Lead
+  hero-title: Hi! I’m <br> Shashank <br> DevOps/SysOps Engineer
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/reddy-s/"}
@@ -53,7 +53,7 @@ social:
 
 # About Section
 blurb:
-   I am tech savvy with a keen interest in new technologies, tools, and softwares in all fields. I've worked in the US for renowned companies that excel in manufacturing, finance, and other industries. For them I've been providing my DevOps technical skills with multiple responsibilities and roles. In my current position I'm a DevOps team lead of 3 in a startup fintech company in India. Me, as a Sr. DevOps Engineer and DevOps team manager, I am providing infra planning, enforcing securities, monitoring, enhancements and re-design of technologies being used with cost-effective solutions.
+   I am tech savvy with a keen interest in new technologies, tools, and softwares in all fields. I've worked in the US for renowned companies that excel in manufacturing, finance, and other industries. For them I've been providing my DevOps technical skills with multiple responsibilities and roles. In my past position, I was a DevOps team lead of 3 in a startup fintech company in India. Currently, as a DevOps & SysOps Engineer in Germany, I am providing expertise in both cloud and on-premisis infra planning, system & network administration, automation, security, monitoring, enhancements and re-design of technologies with cost-effective solutions.
 
 blurb-btn-link: '/blog/portfolio.html'
 blurb-btn-name: Know More
@@ -80,15 +80,15 @@ work-process:
 team:
   - title : "Sujoy Ghosh"
     image : "assets/images/team/member-1.png"
-    designation : "Co-Founder"
+    designation : "Co-Founder & CTO @ Datacultr"
     
   - title : "Sam"
     image : "assets/images/team/member-2.png"
-    designation : "DevOps Engineer"
+    designation : "DevOps Engineer @ Datacultr"
     
   - title : "Vishal"
     image : "assets/images/team/member-3.png"
-    designation : "DevOps Engineer"
+    designation : "DevOps Engineer @ Datacultr"
 
 
 #-------------------------------
@@ -110,15 +110,18 @@ skills:
 - {name: Microsoft Azure, color: '#9473e6', value: '60%'}
 - {name: Grafana, color: '#bdecf6', value: '95%'}
 - {name: Zabbix, color: '#ffbcaa', value: '90%'}
-- {name: ELK, color: '#58be8d', value: '95%'}
-- {name: Jenkins, color: '#9bb1a6', value: '95%'}
-- {name: Bamboo, color: '#6e00c2', value: '80%'}
-- {name: Ansible, color: '#90d8dc', value: '90%'}
-- {name: Open-Stack, color: '#222e2f', value: '85%'}
 - {name: Docker, color: '#72aa68', value: '95%'}
 - {name: Kubernetes, color: '#9473e6', value: '80%'}
 - {name: Terraform, color: '#ced7cd', value: '80%'}
 - {name: GitHub Actions, color: '#d3c94a', value: '85%'}
+- {name: ELK, color: '#58be8d', value: '95%'}
+- {name: Jenkins, color: '#9bb1a6', value: '95%'}
+- {name: Sentry, color: '#6e00c2', value: '80%'}
+- {name: Ansible, color: '#90d8dc', value: '90%'}
+- {name: Open-Stack, color: '#222e2f', value: '85%'}
+- {name: VMware, color: '#72aa68', value: '70%'}
+- {name: Uptrends, color: '#9473e6', value: '70%'}
+- {name: OVH Cloud, color: '#ced7cd', value: '70%'}
 - {name: TravisCI, color: '#cf790f', value: '90%'}
 - {name: PostgreSQL, color: '#00bd00', value: '70%'}
 - {name: Cloud Foundry, color: '#6e00c2', value: '95%'}
@@ -128,7 +131,7 @@ skills:
 - {name: Redis, color: '#fdb157', value: '90%'}
 - {name: Kafka, color: '#9473e6', value: '90%'}
 - {name: Ubuntu, color: '#58be8d', value: '90%'}
-- {name: Alteryx, color: '#72aa68', value: '80%'}
+- {name: Icinga, color: '#72aa68', value: '80%'}
 - {name: Hava, color: '#222e2f', value: '99%'}
 - {name: Endpoint Protector (DLP), color: '#ced7cd', value: '90%'}
 
@@ -142,6 +145,7 @@ experience:
 - {name: IT Technical Analyst IV, icon: 'icon-2.png', date: 'Apr 2018 - May 2019', organization: 'DEERE & COMPANY Corp. WHQ A.K.A JOHN DEERE, USA'}
 - {name: DevOps Engineer, icon: 'icon-3.png', date: 'Jun 2019 - Mar 2020', organization: 'FREDDIE MAC Corp. HQ, USA'}
 - {name: Sr.DevOps Engineer/Team Lead & Manager, icon: 'icon-1.png', date: 'Sep 2020 - Present', organization: 'DATACULTR Pvt. Ltd., INDIA'}
+- {name: DevOps/SysOps Engineer, icon: 'icon-2.png', date: 'Aug 2022 - today', organization: 'FFW, GERMANY'}
 
 
 #-------------------------------
@@ -221,8 +225,8 @@ portfolio-home-items:
   - image : "assets/images/portfolio/cv.png"
     url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.pdf"
 
-  - image : "assets/images/portfolio/coverletter.png"
-    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
+  # - image : "assets/images/portfolio/coverletter.png"
+  #   url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
   
   - image : "assets/images/portfolio/cv_docx.png"
     url: "https://shashankreddysunkara.github.io/blog/EUROPASS_CV_Shashank_Reddy_Sunkara.docx"
@@ -240,10 +244,10 @@ portfolio-label:
     type : "cv_docx"
   }
 
-- {
-    title : "Cover Letter",
-    type : "cl"
-  }
+# - {
+#     title : "Cover Letter",
+#     type : "cl"
+#   }
 
 portfolio-items:
   - image : "assets/images/portfolio/cv.png"
@@ -256,20 +260,20 @@ portfolio-items:
     portfolio-type:
      - type: "cv_docx"
   
-  - image : "assets/images/portfolio/coverletter.png"
-    url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
-    portfolio-type:
-     - type: "cl"
+  # - image : "assets/images/portfolio/coverletter.png"
+  #   url: "https://shashankreddysunkara.github.io/blog/EUROPASS_Cover_Letter_Shashank_Reddy_Sunkara.pdf"
+  #   portfolio-type:
+  #    - type: "cl"
 
 
 #-------------------------------
 # Testimonials Section
 
 testimonial-items:
-  - name: "Shashank Reddy Sunkara"
+  - name: "Sujoy Ghosh"
     image: "assets/images/testimonial/client-1.png"
-    designation : "Sr. DevOps Engineer/DevOps Team Lead"
-    content : "Thank you so much for spending time here to know about my professional skills and experience. I am hoping to hear from you soon."
+    designation : "Co-Founder & CTO @ Datacultr"
+    content : ""Working with Shashank was an absolute pleasure. His diligence and knowledge, that was demonstrated in several challenges that Datacultr took up from time to time is highly recommendable. Shashank's handling of team members, including building the team and processes from scratch helped bring stability to multiple engineering groups within the company.""
     
 
 #-------------------------------
@@ -277,15 +281,18 @@ testimonial-items:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "https://ffwagency.com/"
+
+  - logo: "assets/images/clients-logo/client-logo-2.png"
     url: "https://datacultr.com/"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/client-logo-3.png"
     url: "http://www.freddiemac.com/"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "https://www.deere.com/en/our-company/"
-    
   - logo: "assets/images/clients-logo/client-logo-4.png"
+    url: "https://www.deere.com/en/our-company/"
+
+  - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "https://www.softworldtechnologies.com/about"
     
 #-------------------------------
