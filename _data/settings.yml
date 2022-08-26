@@ -270,10 +270,10 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Shashank Reddy Sunkara"
+  - name: "Sujoy Ghosh"
     image: "assets/images/testimonial/client-1.png"
-    designation : "Sr. DevOps Engineer/DevOps Team Lead"
-    content : "Thank you so much for spending time here to know about my professional skills and experience. I am hoping to hear from you soon."
+    designation : "Co-Founder & CTO @ Datacultr"
+    content : "Working with Shashank was an absolute pleasure. His diligence and knowledge, that was demonstrated in several challenges that Datacultr took up from time to time is highly recommendable. Shashank's handling of team members, including building the team and processes from scratch helped bring stability to multiple engineering groups within the company."
     
 
 #-------------------------------
