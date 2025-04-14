@@ -78,15 +78,15 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Sujoy Ghosh (Ex-Team member)"
+  - title : "Sujoy Ghosh"
     image : "assets/images/team/member-1.png"
     designation : "Co-Founder & CTO @ Datacultr"
     
-  - title : "Sam (Ex-Team member)"
+  - title : "Sam"
     image : "assets/images/team/member-2.png"
     designation : "DevOps Engineer @ Datacultr"
     
-  - title : "Vishal (Ex-Team member)"
+  - title : "Vishal"
     image : "assets/images/team/member-3.png"
     designation : "DevOps Engineer @ Datacultr"
 
