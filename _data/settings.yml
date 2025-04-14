@@ -256,7 +256,7 @@ portfolio-items:
      - type: "cv"
 
   - image : "assets/images/portfolio/cv_docx.png"
-    url: "https://shashankreddysunkara.github.io/blog/Shashank_Reddy_Sunkara_CV_2025.docx"
+    url: "https://shashankreddysunkara.github.io/blog/Shashank_Reddy_Sunkara_CV_2025.doc"
     portfolio-type:
      - type: "cv_docx"
   
