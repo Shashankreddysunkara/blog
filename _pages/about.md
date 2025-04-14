@@ -7,6 +7,6 @@ signature: assets/images/about/signature.png
 ---
 **DevOps/SysOps Engineer strong with AWS, Jenkins, Docker & Grafana with work experience in the USA, GERMANY and INDIA.**
 
-**Proud to be Arctic Code Vault Contributor, PRO Github user, and down to earth young fella resifing in GERMANY.**
+**Proud to be Arctic Code Vault Contributor, PRO Github user, and down to earth young fella residing in GERMANY.**
 
 **Haben sie einen guten tag!**
