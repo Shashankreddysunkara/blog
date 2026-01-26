@@ -8,7 +8,7 @@ description: Who am i? Well, please explore this website to know about me.
 email: shashankreddy.sunkara0504@gmail.com
 phone: +49 17675873535
 address: Hamburg, Germany
-copyright: Copyright &copy; 2025 Maintained by [Shashank Reddy Sunkara](https://www.linkedin.com/in/reddy-s/)
+copyright: Copyright &copy; 2026 Maintained by [Shashank Reddy Sunkara](https://www.linkedin.com/in/reddy-s/)
 
 menu:
 - {name: About, link: '/blog/about.html'}
@@ -106,32 +106,32 @@ performance:
 
 skills-title: Skills
 skills:
-- {name: AWS, color: '#fdb157', value: '90%'}
+- {name: AWS, color: '#fdb157', value: '80%'}
 - {name: Microsoft Azure, color: '#9473e6', value: '60%'}
-- {name: Grafana, color: '#bdecf6', value: '95%'}
-- {name: Zabbix, color: '#ffbcaa', value: '90%'}
-- {name: Docker, color: '#72aa68', value: '95%'}
-- {name: Kubernetes, color: '#9473e6', value: '80%'}
-- {name: Terraform, color: '#ced7cd', value: '80%'}
-- {name: GitHub Actions, color: '#d3c94a', value: '85%'}
-- {name: ELK, color: '#58be8d', value: '95%'}
+- {name: Grafana, color: '#bdecf6', value: '80%'}
+- {name: Zabbix, color: '#ffbcaa', value: '80%'}
+- {name: Docker, color: '#72aa68', value: '90%'}
+- {name: Kubernetes, color: '#9473e6', value: '60%'}
+- {name: Terraform, color: '#ced7cd', value: '70%'}
+- {name: GitHub Actions, color: '#d3c94a', value: '80%'}
+- {name: ELK, color: '#58be8d', value: '80%'}
 - {name: Jenkins, color: '#9bb1a6', value: '95%'}
 - {name: Sentry, color: '#6e00c2', value: '80%'}
-- {name: Ansible, color: '#90d8dc', value: '90%'}
+- {name: Ansible, color: '#90d8dc', value: '95%'}
 - {name: Open-Stack, color: '#222e2f', value: '85%'}
-- {name: VMware, color: '#72aa68', value: '70%'}
-- {name: Uptrends, color: '#9473e6', value: '70%'}
-- {name: OVH Cloud, color: '#ced7cd', value: '70%'}
-- {name: TravisCI, color: '#cf790f', value: '90%'}
+- {name: VMware, color: '#72aa68', value: '90%'}
+- {name: Uptrends, color: '#9473e6', value: '90%'}
+- {name: OVH Cloud, color: '#ced7cd', value: '95%'}
+- {name: TravisCI, color: '#cf790f', value: '80%'}
 - {name: PostgreSQL, color: '#00bd00', value: '70%'}
 - {name: Cloud Foundry, color: '#6e00c2', value: '95%'}
 - {name: Appdynamics, color: '#ffbcaa', value: '95%'}
 - {name: Nginx, color: '#3dffff', value: '95%'}
-- {name: RabbitMQ, color: '#420000', value: '80%'}
+- {name: RabbitMQ, color: '#420000', value: '70%'}
 - {name: Redis, color: '#fdb157', value: '90%'}
-- {name: Kafka, color: '#9473e6', value: '90%'}
-- {name: Ubuntu, color: '#58be8d', value: '90%'}
-- {name: Icinga, color: '#72aa68', value: '80%'}
+- {name: Kafka, color: '#9473e6', value: '70%'}
+- {name: Ubuntu, color: '#58be8d', value: '95%'}
+- {name: Icinga, color: '#72aa68', value: '95%'}
 - {name: Hava, color: '#222e2f', value: '90%'}
 - {name: Endpoint Protector (DLP), color: '#ced7cd', value: '90%'}
 
